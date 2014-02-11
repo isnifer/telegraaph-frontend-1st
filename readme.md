@@ -21,6 +21,7 @@
  - I use graceful degradation for old browsers.
  - Separate styles for IE if it necessary.
  - Polyfills for new features that not supporting by old browsers like [html5shiv.js](https://github.com/aFarkas/html5shiv).
+ - Basic file structure you can see on my [boilerplate](https://github.com/iSnifer/grunt-boilerplate) 
 
 
 #### Ответы ####
